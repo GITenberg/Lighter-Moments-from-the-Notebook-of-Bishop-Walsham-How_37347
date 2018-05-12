@@ -1,0 +1,37 @@
+_repo: Lighter-Moments-from-the-Notebook-of-Bishop-Walsham-How_37347
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: How, William Walsham
+    aliases:
+    - How, Walsham
+    - How, W. Walsham (William Walsham)
+    birthdate: 1823
+    deathdate: 1897
+    gutenberg_agent_id: '38613'
+    url: http://www.gutenberg.org/2009/agents/38613
+  editor:
+    agent_name: How, F. D. (Frederick Douglas)
+    alias: How, Frederick Douglas
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '26577'
+    url: http://www.gutenberg.org/2009/agents/26577
+description: ''
+gutenberg_issued: '2011-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37347'
+  lccn: '2012656436'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Church of England -- Humor'
+title: Lighter Moments from the Notebook of Bishop Walsham How
+url: http://www.gutenberg.org/ebooks/37347
